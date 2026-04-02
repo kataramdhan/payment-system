@@ -92,12 +92,10 @@ PostgreSQL
 ## 🖥️ Demo Preview
 
 ### 🔐 Login Page
-
-screenshots/login.png
+![Login](screenshots/login.png)
 
 ### 📊 Dashboard
-
-screenshots/dashboard.png
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
