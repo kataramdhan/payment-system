@@ -114,6 +114,13 @@ cd payment-system
 
 ### 2. Run infrastructure (PostgreSQL + Redis)
 
+## 🗄️ Database Setup
+
+Run the SQL schema:
+
+```bash
+psql -U postgres -d your_db -f schema.sql
+
 ```bash
 docker-compose up -d
 ```
